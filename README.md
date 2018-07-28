@@ -4,7 +4,7 @@ docker image with  [Google Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 and [screenshots scripts](#screenshots-tools)
 
-[![nodesource/node](http://dockeri.co/image/alekzonder/puppeteer)](https://hub.docker.com/r/alekzonder/puppeteer/)
+[![nodesource/node](http://dockeri.co/image/colinniu/puppeteer)](https://hub.docker.com/r/colinniu/puppeteer/)
 
 ## docker tags
 
